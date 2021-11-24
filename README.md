@@ -1,0 +1,2 @@
+# Email Address Manager
+A simple utility for managing user account email addresses in environments where on premise domain accounts are synchronised with Azure/365 and there is no on premise exchange server to manage them.
